@@ -17,7 +17,7 @@ A handbook on Tensorflow 1.0
 * [Tensorboard](basic/tensorboard_example.py)
 
 
-## Linear Regression
+## <a name="linear_regression"></a>Linear Regression
 * [Visualize data](linear_regression/visualize_raw_input.py)
 * [Linear Model](linear_regression/linear_model.py)
 * [Polynomial Model](linear_regression/polynomial_model.py)
