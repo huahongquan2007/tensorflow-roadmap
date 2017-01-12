@@ -7,7 +7,7 @@ A handbook on Tensorflow 1.0
 
 # Table of Contents
 1. [Basic Tensorflow](#basic)
-
+2. [Linear Regression](#linear-regression)
 
 
 ## Basic
@@ -17,4 +17,9 @@ A handbook on Tensorflow 1.0
 * [Tensorboard](basic/tensorboard_example.py)
 
 
+## Linear Regression
+* [Visualize data](linear_regression/visualize_raw_input.py)
+* [Linear Model](linear_regression/linear_model.py)
+* [Polynomial Model](linear_regression/polynomial_model.py)
+* [Regularization](linear_regression/regularization_example.py)
 
