@@ -1,5 +1,10 @@
 import tensorflow as tf
 
+"""
+Usage:
+    python variable_example.py
+"""
+
 sess = tf.InteractiveSession()
 
 

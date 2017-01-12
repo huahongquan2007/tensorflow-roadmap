@@ -1,6 +1,11 @@
 import tensorflow as tf
 import numpy as np
 
+"""
+Usage:
+    python tensors_example.py
+"""
+
 m1 = [[1.0, 2.0],
       [3.0, 4.0]]
 

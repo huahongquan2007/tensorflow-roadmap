@@ -1,5 +1,10 @@
 import tensorflow as tf
 
+"""
+Usage:
+    python saving_loading_example.py
+"""
+
 sess = tf.InteractiveSession()
 
 raw_data = [1., 2., 8., -1, 0, 5.5, 7, 13]

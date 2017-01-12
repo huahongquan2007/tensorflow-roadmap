@@ -1,11 +1,12 @@
 import tensorflow as tf
 import numpy as np
 
-# Usage:
-# mkdir logs
-# python tensorboard_example.py
-# tensorboard --logdir=./logs
-#
+"""
+    Usage:
+    mkdir logs
+    python tensorboard_example.py
+    tensorboard --logdir=./logs
+"""
 
 raw_data = np.random.normal(10, 1, 100)
 
