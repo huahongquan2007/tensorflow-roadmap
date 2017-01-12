@@ -7,7 +7,7 @@ A handbook on Tensorflow 1.0
 
 # Table of Contents
 1. [Basic Tensorflow](#basic)
-2. [Linear Regression](#linear-regression)
+2. [Linear Regression](#linear_regression)
 
 
 ## Basic
