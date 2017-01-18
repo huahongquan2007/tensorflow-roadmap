@@ -15,6 +15,7 @@ A handbook on Tensorflow 1.0
 * [Variable](basic/variable_example.py)
 * [Saving and Loading](basic/saving_loading_example.py)
 * [Tensorboard](basic/tensorboard_example.py)
+* [Traversing a directory of data](basic/traversing_a_directory.py)
 
 
 ## Linear Regression
