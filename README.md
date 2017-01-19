@@ -9,6 +9,7 @@ A handbook on Tensorflow 1.0
 1. [Basic Tensorflow](#basic)
 2. [Linear Regression](#linear-regression)
 3. [Classification](#classification)
+4. [Reinforcement Learning](#reinforcement-learning)
 
 ## Basic
 * [Tensors](basic/tensors_example.py)
@@ -31,3 +32,6 @@ A handbook on Tensorflow 1.0
 * [Logistic Regression 2D](classification/logistic_regression_2d.py)
 * [Softmax Regression](classification/softmax_regression.py)
 
+
+## Reinforcement Learning
+* [Stock Prediction](reinforcement_learning/predict_stock.py)
