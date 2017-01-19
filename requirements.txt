@@ -3,3 +3,4 @@ matplotlib
 tqdm
 scipy
 yahoo-finance
+sklearn
