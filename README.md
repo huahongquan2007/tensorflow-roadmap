@@ -10,7 +10,7 @@ A handbook on Tensorflow 1.0
 2. [Linear Regression](#linear-regression)
 3. [Classification](#classification)
 4. [Reinforcement Learning](#reinforcement-learning)
-
+5. [Hidden Markov_Model](#hidden-markov-model)
 ## Basic
 * [Tensors](basic/tensors_example.py)
 * [Variable](basic/variable_example.py)
@@ -35,3 +35,7 @@ A handbook on Tensorflow 1.0
 
 ## Reinforcement Learning
 * [Stock Prediction](reinforcement_learning/predict_stock.py)
+
+
+## Hidden Markov Model
+* [Basic HMM](hidden_markov_model/hmm.py)
